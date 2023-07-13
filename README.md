@@ -7,7 +7,7 @@
 ```
 <h3>Tecnologias utilizadas:</h3> 
 ```
-<!-- O uso da aspas triplas, normalmente, é par textos copiaveis. Tais como: trechos de códigos etc. -->
+<!-- O uso da aspas triplas, normalmente, é para textos copiaveis. Tais como: trechos de códigos etc. -->
 - GitHub
 - Git
   
